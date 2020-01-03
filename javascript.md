@@ -1,29 +1,87 @@
 Javascript Topics:
 
+- primitives data types
+- variables, string, numbers, booleans, undefined, null, NaN
+- arithmetic operators
+- comparison operators
+- logical operators
+- conditional statements (if else, switch)
+- functions, arguments, return statement, scope
+- for loops, while, do while
+- Arrays
+    - declaration
+    - accessing items
+    - assignment
+    - Array methods
+    - 2D array
+    - 3D array
+- Objects
+    - difference from arrays
+    - key value pair
+    - accessing values
+    - assigning values
+    - methods
+    - for in loop
+    - this
+    - forEach, map, reduce, filter callbacks
 - hoisting
 - scopes
-- var let const
-- closure
-- array, and array methods
-- functions, callback functions
-- Objects. 
-- arrays vs objects
+    - global
+    - local scope
+    - block scope
+- closures
+- strict mode
 - solve problems faster by using objects (follow week 4 problem statements for samurai. These are same problems given in your python classes) This will help in your DS rounds as well
 - DOM manipulation 
+    - createElement
+    - append
+    - getElementById
+    - querySelector
+    - querySelectorAll
+    - setAttribute
+    - children methods
 - event API, eventListener
 - event bubbling
+- event capturing
 - style and attribute manipulation with DOM
 - JSON
 - using AJAX / XHR
+- callback, callback hell
+- asyncrnonous behavior in javascript
+    - setTimeout
+    - setInterval
+- event loop
+    - call stack
+    - task/event queue
+- WEB API
+- promises
+    - promise chaining
+    - advantage over callbacks
+- async, await
+- fetch API
+- axios
+- CORS
+- jQuery
+- IIFE
+- anonymous functions
+- Sets, Map
+- modules
+- localStorage, cookie, sessionStorage
+- ECMAScript, TC39
+- polyfill
+- tree shaking
+- HTTP protocols
 
-ES6:
+ES6 and others:
 
+- var let const
 - arrow functions
 - template literals
 - destructuring
 - default params
 - event loop
 - promises, async, await, fetch, axios
-- classes, 
+- classes
+- this
 - inheritance, and prototype
 - call apply bind
