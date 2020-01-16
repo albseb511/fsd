@@ -15,6 +15,7 @@ Javascript Topics:
     - Array methods
     - 2D array
     - 3D array
+    - forEach, map, reduce, filter callbacks
 - Objects
     - difference from arrays
     - key value pair
@@ -23,15 +24,17 @@ Javascript Topics:
     - methods
     - for in loop
     - this
-    - forEach, map, reduce, filter callbacks
 - hoisting
 - scopes
     - global
     - local scope
     - block scope
 - closures
+- lexical scoping
+- Execution context
 - strict mode
 - solve problems faster by using objects (follow week 4 problem statements for samurai. These are same problems given in your python classes) This will help in your DS rounds as well
+- recursion
 - DOM manipulation 
     - createElement
     - append
@@ -71,6 +74,9 @@ Javascript Topics:
 - polyfill
 - tree shaking
 - HTTP protocols
+- Implementation of Stacks, Queues, Linked List, Trees (Binary Tree, Nary Tree), Graphs
+- Traversing, reversing, mirror, and other operations for LinkedList, Trees, Graphs (1st, 2nd, 3rd level)
+
 
 ES6 and others:
 
