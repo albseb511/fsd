@@ -7,6 +7,7 @@ Javascript Topics:
 - logical operators
 - conditional statements (if else, switch)
 - functions, arguments, return statement, scope
+- callbacks, higher order functions
 - for loops, while, do while
 - Arrays
     - declaration
