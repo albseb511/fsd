@@ -92,3 +92,7 @@ ES6 and others:
 - this
 - inheritance, and prototype
 - call apply bind
+- getters
+- setters
+- generators
+- yield
