@@ -1,5 +1,8 @@
 Basics:
+
 - Babel
+- Webpack
+- Bundling
 - Adding images and css and styles
 - Imperative vs Declerative
 - JSX,Conventions on react
@@ -17,6 +20,7 @@ Basics:
 - Lists or array.map 
 - keys
 - Virtual DOM
+- Reconciliation (going to be renamed to React Fibre)
 - Component lifecycle
 - State and Lifecycle
 - Conditional Rendering
@@ -84,9 +88,15 @@ More React:
     - Custom Hooks
     - Rules of Hooks
     - [FAQ](https://reactjs.org/docs/hooks-faq.html)
+- PropTypes and Type checking
+- Webpack
+- Configuring React without CRA
+- Optimising Performance
+- 
 - Pure Component
 - Hydrate Component
 - Context
+- Error Boundaries
 - Portals
 - Suspense/Lazy loading (CONCURRENT mode-new/experimental)
 - [Testing](https://reactjs.org/docs/test-utils.html)
