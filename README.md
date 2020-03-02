@@ -12,3 +12,5 @@ How to Contribute?
 
 - Raise a PR
 - As of now topic wise is the format I am following
+
+[Resources](https://github.com/albseb511/fsd/blob/master/resources.md)
