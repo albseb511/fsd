@@ -1,5 +1,12 @@
 #### POSTMAN
 
+Download:
+
+```
+https://www.postman.com/
+```
+
+
 - Prerequisites
     - Working with APIs
     - AJAX
