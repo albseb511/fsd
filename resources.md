@@ -8,3 +8,9 @@
 ### Others
 
 [Module Pattern](https://vanillajstoolkit.com/boilerplates/#Revealing-Module-Pattern)
+
+[equality checker](https://dorey.github.io/JavaScript-Equality-Table/)
+
+[html-dom](https://htmldom.dev/)
+
+[css-layouts](https://csslayout.io/)
