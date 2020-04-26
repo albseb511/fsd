@@ -26,3 +26,7 @@
 [webpack](https://github.com/styopdev/webpack-interview-questions)
 
 [you-might-not-need](https://youmightnotneed.com/)
+
+[hooks-facebook-pr](https://github.com/facebook/react/pull/13968)
+
+[hooks-comment-sebmarkbage](https://github.com/reactjs/rfcs/pull/68#issuecomment-439314884)
