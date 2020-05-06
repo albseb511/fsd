@@ -96,3 +96,5 @@ ES6 and others:
 - setters
 - generators
 - yield
+- BigInt
+- Optional Chaining

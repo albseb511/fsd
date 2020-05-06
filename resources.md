@@ -32,3 +32,7 @@
 [hooks-comment-sebmarkbage](https://github.com/reactjs/rfcs/pull/68#issuecomment-439314884)
 
 [api-mockup](https://miragejs.com/)
+
+[git-commit-guidelines](https://chris.beams.io/posts/git-commit/#seven-rules)
+
+[git-commit-guidelines](https://www.conventionalcommits.org/en/v1.0.0/)
