@@ -36,3 +36,7 @@
 [git-commit-guidelines](https://chris.beams.io/posts/git-commit/#seven-rules)
 
 [git-commit-guidelines](https://www.conventionalcommits.org/en/v1.0.0/)
+
+[competitive-programming-guide](https://cses.fi/book/book.pdf)
+
+[gang-of-four](https://www.amazon.in/Design-Patterns-Object-Oriented-Addison-Wesley-Professional-ebook/dp/B000SEIBB8/ref=sr_1_2?dchild=1&keywords=gang+of+four&qid=1589490182&sr=8-2)
