@@ -40,3 +40,9 @@
 [competitive-programming-guide](https://cses.fi/book/book.pdf)
 
 [gang-of-four](https://www.amazon.in/Design-Patterns-Object-Oriented-Addison-Wesley-Professional-ebook/dp/B000SEIBB8/ref=sr_1_2?dchild=1&keywords=gang+of+four&qid=1589490182&sr=8-2)
+
+[Coding horror](https://blog.codinghorror.com)
+
+[CSRF & XSRF](https://blog.codinghorror.com/preventing-csrf-and-xsrf-attacks/)
+
+[CSRF_cheat_sheet](https://cheatsheetseries.owasp.org/cheatsheets/Cross-Site_Request_Forgery_Prevention_Cheat_Sheet.html)
