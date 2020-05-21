@@ -46,3 +46,11 @@
 [CSRF & XSRF](https://blog.codinghorror.com/preventing-csrf-and-xsrf-attacks/)
 
 [CSRF_cheat_sheet](https://cheatsheetseries.owasp.org/cheatsheets/Cross-Site_Request_Forgery_Prevention_Cheat_Sheet.html)
+
+[coding interview](https://github.com/jwasham/coding-interview-university)
+
+[pramp - interview](https://www.pramp.com/#/)
+
+[cs 50](https://online-learning.harvard.edu/course/cs50-introduction-computer-science)
+
+[cs interviews](https://blog.transitivebullsh.it/gaming-cs-interviews/)
