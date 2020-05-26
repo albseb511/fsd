@@ -54,3 +54,9 @@
 [cs 50](https://online-learning.harvard.edu/course/cs50-introduction-computer-science)
 
 [cs interviews](https://blog.transitivebullsh.it/gaming-cs-interviews/)
+
+[Kent C Woods - blog - test](https://kentcdodds.com/blog/?q=test)
+
+[Redux quick start](https://deploy-preview-3740--redux-docs.netlify.app/tutorials/quick-start/quick-start-part-1)
+
+[practical redux](https://blog.isquaredsoftware.com/2017/11/practical-redux-educative-course/)
