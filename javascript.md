@@ -34,7 +34,7 @@ Javascript Topics:
 - lexical scoping
 - Execution context
 - strict mode
-- solve problems faster by using objects (follow week 4 problem statements for samurai. These are same problems given in your python classes) This will help in your DS rounds as well
+- solve problems faster by using objects 
 - recursion
 - DOM manipulation 
     - createElement
