@@ -7,6 +7,7 @@
 - [Postman](https://github.com/albseb511/fsd/blob/master/postman.md)
 - [HTML](#)
 - [CSS](#)
+- [Data Structures & Algo](https://github.com/trekhleb/javascript-algorithms)
 
 How to Contribute?
 
