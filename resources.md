@@ -60,3 +60,35 @@
 [Redux quick start](https://deploy-preview-3740--redux-docs.netlify.app/tutorials/quick-start/quick-start-part-1)
 
 [practical redux](https://blog.isquaredsoftware.com/2017/11/practical-redux-educative-course/)
+
+[codepen challenges](https://codepen.io/challenges/)
+
+[picalilli fe challenes club](https://piccalil.li/category/front-end%20challenges%20club/)
+
+[100daycss fe challenges](https://100dayscss.com/)
+
+[dailyUI fe challenges](https://www.dailyui.co/)
+
+[frontloops fe challenges](https://frontloops.io/)
+
+[cssbattles fe challenges](https://cssbattle.dev/)
+
+[acefrontend fe challenges](https://www.acefrontend.com/)
+
+[codier fe challenges](https://codier.io/)
+
+[https://learngitbranching.js.org/](https://learngitbranching.js.org/)
+
+- sum, inner functions
+- explain with debug tool
+- setTimeout example
+- display call
+- visualiser javascript
+- explain privacy
+- stateful functions
+- state
+- bike example
+- examples
+- debounce
+- throttle
+- debounce.now.sh
