@@ -1,0 +1,44 @@
+/ Two number sum
+
+// input array = [3,5,-4,8,11,1,-1,6]
+// target_sum = 10
+
+// sample output
+// [-1,11]
+
+// approach hashmap
+
+function twoNumberSum(array, targetSum) {
+    // Write your code here.
+    let start=0
+    let end=-1
+     let hash=new Map()
+     for(let i=0;i<array.length;i++){
+     
+     hash.set(array[i],i) //it will set the all value with its corresponding i
+     }
+     
+     //Now map is ready 
+     //My approach is to find targetSum-array[i] in hash map put the value of that particular as end and one more check that current elment pos is not equal to that hash value
+     
+     for(let i=0;i<array.length;i++){
+     let prev=targetSum-array[i]
+     if(hash.has(prev)&&hash.get(prev)!=i){
+      
+      start=i
+      end=hash.get(prev)
+     
+     }
+     }
+     if(end!=-1){
+     
+      return [start,end]
+     }
+     else{
+     return -1
+     }
+    
+  }
+  
+  // Do not edit the line below.
+  exports.twoNumberSum = twoNumberSum;
